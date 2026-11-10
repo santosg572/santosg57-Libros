@@ -1,0 +1,767 @@
+Chicory and Endive
+Margherita Lucchin1
+, Serena Varotto1
+, Gianni Barcaccia1
+, and Paolo Parrini1
+1
+ University of Padova, Dipartimento di Agronomia Ambientale e Produzioni Vegetali,
+paolo.parrini@unipd.it
+1 Introduction
+Chicory and Endive are common names that correctly indicate two different species.
+Their conversational use may nevertheless bring about some misunderstanding as
+they do not only refer to a series of different leafy vegetables but, more extensively,
+to substantially different crops from which many different products are obtained.
+As leafy vegetables, chicory and endive are much less used than lettuce or
+cabbages, but they are anyway among the most known and popular horticultural
+products in the world and, although with great differences in cultural practices and
+type of utilization, they are diffused in almost every country and are included in the
+diet of most western as well as eastern populations. Mainly known as important
+components for fresh salads, they are also often cooked and differently prepared
+according to traditions and alimentary habits.
+Chicory and endive are two traditional European horticultural crops and,
+although they cannot be considered as autochthonous, their evolution as vegetable
+crops has taken place in continental Europe where they have gradually differentiated
+in a variety of cultivated types.
+Actually, the name “Endive” only indicates a leafy vegetable crop whose
+cultivated material usually refers to two groups of cultivars: the “Escarole Group”
+and the “Curled Endive Group”. On the other side, the term “Chicory” indicates at
+least two kinds of crops: a leafy vegetable, very differentiated according to several
+cultural types, and a root crop whose industrial utilization seems at present mainly
+addressed to inulin extraction or, on a more limited scale, to the production of a
+coffee substitute. Both these types of “root chicory”, have the same origin as they
+have been derived from the so called “Magdeburg chicory”, the ancient root chicory 
+
+known and traditionally used in some European countries as a coffee substitute since
+the end of 16th century and that gained outstanding importance with the continental
+block at the time of Napoleon. Also a very important leafy vegetable, the so called
+“Witloof chicory” or “Belgian endive”, perhaps the most known among the leafy
+chicories, has to be considered a derivative of the Magdeburg chicory as it seems
+commonly accepted that its first well known pale yellowish sprouts have casually
+been obtained by a Belgian farmer who, around 1870, had observed and harvested
+them from a stock of roots piled up in autumn and left apart during the cold season,
+waiting to be dried, grounded, and toasted.
+Lacking comprehensive, homogeneous, sufficiently detailed, and univocal data
+on horticultural productions and trade, it is impossible to give reliable figures on the
+diffusion and economic importance of the two cultures in Europe, where chicory and
+endive are mostly grown.
+In the most recent statistics concerning the European market (EU Market Survey
+2004 for fresh fruit and vegetables) too, chicory and endive are often confused under
+the general voice “salads”, or considered together with lettuce which is by far the
+most important leafy vegetable at both European and world-wide scale. The situation
+is not very different if one considers, as a source of reliable information, the statistics
+of each single country. On the basis of accessible data it is however possible to
+figure out that Belgium, France, Italy, and Netherlands are the almost exclusive
+producers of chicory and endive. These two crops do not give a great contribution to
+each country’s total agricultural income, but they are very important at local level, as
+they characterize the agriculture of limited areas where from 80 to 90% of the
+country’s production is concentrated. This is the case of France, where 86% of the
+more than 15.000 ha of Witloof chicory grown in the country are localized in four
+northern departments, or of Italy, where the north eastern region accounts for 87% of
+the national acreage and 84% of the national production of that particular type of red
+or variegated chicory known as “Radicchio”. The Escarole and Curly endive types,
+in both France and Italy, are much less concentrated and may extend far south where
+they are usually grown. The same occurs with other chicory types like the “Chicory
+of Catalogne”. By the way, regarding the possible confusion between the two terms,
+it may be interesting to note that the Witloof chicory is officially registered by
+French statistics as “Endive”, while the Escarole and the Curly endive are identified
+as “Chicorèe”.
+Furthermore, it is perhaps worth noting that chicory and endive are not only
+important for the local economies, but they may have significance at an international
+trade scale too. Altogether, the US imports of chicory in 2002 have been equal to
+5996 Mt for a value of $ 8.193.000. About a half of these amounts, both in quantity
+and value, are represented by Witloof chicory, whose imports from Belgium and
+Netherlands sum up to more than 90% of the whole figure. Thus, although still on a
+regional scale, chicory and endive have their own place among more known and
+used vegetables and may represent a significant source of income for farmers in
+areas where they have been traditionally present.
+ Within this frame, two observations may be added. The first concerns the
+marked decrease of US not qualified chicory imports from Europe, in particular from
+Belgium, Netherlands, and Italy (2622 Mt in1996, 536 Mt in 2002), and the increase 
+
+of imports from Central and Southern America (1046 Mt in 1996, 2522 Mt in 2002).
+Compared to the stable or lightly increasing figures recorded during the same period
+for Witloof chicory (between 2000 and 2400 Mt) this trend seems to indicate that
+Witloof has taken an advantage thanks to the quality and standardization of the
+marketable product. The second observation regards the “Radicchio” which is now
+considered with more and more attention both in Europe and in the US, as well as in
+other overseas countries, where its cultivation has started some years ago and seems
+to have an increasing evaluation as its red or variegated leaves are particularly
+appreciated as a component of prepared salads.
+ Finally, the recognised value of some compounds present in chicory’s roots and
+leaves may enhance its appreciation beyond the horticultural use and has to be
+underlined to completely figure out the potentiality of the plant and the possible
+breeding goals. From this point of view, the industrial use of chicory for inulin
+production deserves particular attention. In Belgium, the acreage dedicated to this
+utilization has been constantly increasing during the last ten years and has passed
+from 11.700 ha in 1997 to 15.700 ha in 2005.
+2 Taxonomy and Origin
+Both Chicory (Cichorium intybus L.) and Endive (Cichorium endivia L.) belong to
+the family Asteraceae, a very large family with about 23.000 species subdivided in
+1535 genera grouped in three subfamilies: Barnadesioideae, Cichorioideae, and
+Asteroideae (Bremer et al., 1994). The tribe Lactuceae, in the subfamily Cichorioideae,
+includes the genus Cichorium within which different species are recognized according
+to the source. Tutin et al. (1976), referring to the European flora, describe the three
+species C. spinosum, C. intybus, and C. endivia and subdivide this last one in subsp.
+endivia (cultivated), and subsp. divaricatum (wild). Pignatti (1982), taking into account
+the Italian flora, refers to the three wild species C. spinosum, C. intybus, with the var.
+glabratum (Presl) Fiori, and C. pumilum, maintaining C. endivia as a cultivated
+species only. In a revision of the genus made by Bedarff in 1985 (cited by Kiers,
+2000) and partially published by Wagenitz and Bedarff (1989), seven species were
+described on the basis of morphological characters, and C. endivia and C. intybus
+were further divided in two subspecies (C. endivia subsp. endivia and C. endivia
+subsp. divaricatum; C. intybus subsp. intybus and C. intybus subsp. glabratum). This
+classification does not agree with the one given by the Royal Botanical Garden
+which, in the Flora Europea section, only referring to C. intybus, indicates three
+subspecies: subsp. foliosum (Hegi) Janch., subsp. glabratum (C. Presl) Arcang., and
+subsp. sativum (Bisch.) Janch.
+Kiers et al. (2000), integrating morphological characters with molecular
+observations, describe the two cultivated and most known species C. intybus and C.
+endivia and the two wild species C. spinosum and C. pumilum. Moreover, two
+additional species, never observed in Europe, are added, C. calvum and C. bottae, the
+former endemic to the dry and hot environments of Middle East and South Western
+Asia and the latter from Yemen and Saudi Arabia. More recently, Conti et al. (2005),
+in their study of the Italian flora, recognized three species in the genus: C. endivia, 
+
+with the two subspecies endivia Hegi and pumilum (Jacq) Cout., C. intybus, with the
+two subspecies glabratum (C. Presl) Arcang. and intybus, and C. spinosum.
+Since the early nineties, when the analysis of DNA fragments became more and
+more familiar to taxonomists, several studies have allowed the task to explore, and
+possibly clarify, the relationships among the two cultivated species - C. intybus
+and C. endivia - and their wild relatives. Vermeulen et al. (1994), using mitochondrial
+RFLPs, suggest that C. spinosum may be considered an ecotype of C. intybus rather
+than a separate species. Gemeinholzer and Bachmann (2005), with other and more
+sensible molecular methods (ITS, AFLP, SSR), were unable to discriminate between
+these two species which, on the contrary, could be clearly delimited with two
+diagnostic and one overlapping morphological character. On the basis of chloroplast
+DNA RFLPs and chloroplast DNA and nuclear rDNA sequence analysis (Kiers
+et al.,1999) or using AFLP markers (Kiers et al., 2000) it has been confirmed that
+C. intybus is closely related to C. spinosum, while C. endivia, C. pumilum, and
+C. calvum show a close molecular resemblance among each other and are fairly well
+separated from the first two. The sixth species, C. bottae, has to be considered a
+sister species.
+Besides morphological and molecular resemblances or diversities, a distinction
+among these six species can be made on the basis of their life cycle and reproductive
+system. Thus, two groups may be established: on one side C. intybus, C. spinosum,
+and C. bottae, perennials that are characterized by a strong self-incompatibility
+system, on the other C. endivia, C. pumilum, and C. calvum, annual and selfcompatible species. Within this 
+frame, the names of the recognized botanical
+varieties do not appear, although it is from them that the various cultivated types
+have originated.
+The origin and differentiation of the genus is concordantly located in SouthEastern Europe, the Eastern 
+Mediterranean basin and the South Western Asia.
+Within this large centre, C. intybus and C. endivia partially share their area of origin
+which, for C. intybus, tends to be located in the southern Balkan peninsula and
+northern Middle East and, for C. endivia, is claimed to be the whole Middle East
+with an extension to the northern Arabic peninsula. From there, they firstly migrated
+in the whole Mediterranean basin and, on the other side, toward Southern and
+Eastern Asia where they seem to have found different areas of diffusion and adoption
+as horticultural crops.
+At present, C. intybus is mainly grown all over continental Europe, in South
+Western Asia, and on limited areas in Northern America, South Africa, and
+Australia. C. endivia, other than in continental Europe, perhaps in accordance with
+its more southern origin, is grown in Central and Southern America and all along the
+Mediterranean coast of the African continent. In Asia, it seems to have found
+particularly favourable conditions in the eastern part of the continent, on an area
+which includes South Eastern China, Korea, and the eastern part of Inner Mongolia.
+Probably known by the Egyptians and used as food and/or medicinal plants by
+ancient Greeks and the Romans, in Europe both species gradually underwent a
+process of naturalization and, as said before, although they cannot be considered as
+autochthonous species, they became part of the natural and agricultural European
+flora. Thus, C. endivia, traditionally indicated only as a cultivated species, may be 
+
+found in the spontaneous flora of at least some Italian regions (Conti et al., 2005).
+Cichorium intybus covers, as wild, a great portion of the whole European continent
+and traditionally enters into the diet of local populations as an important ingredient
+of typical local dishes. This might be the consequence and, at the same time, the
+cause of the great differentiation among a number of types which, mostly within C.
+intybus, have originated an always increasing number of cultivar groups, types,
+populations which, altogether, make the horticultural landscape of the genus
+Cichorium particularly rich and interesting from a historic, cultural, agronomic,
+commercial, and scientific point of view.
+Several extensive lists of Cichorium species, subspecies, botanical varieties, and
+cultivar groups, have been published and are present in accessible internet sites,
+where scientific and technical news often mix up with commercial promotion,
+forming a mass of information not always easy to be interpreted.
+The most exhaustive seems to be the list given by Mansfeld’s World Database of
+Agricultural and Horticultural Crops (IPK Gatersleben 2002) which includes 49
+entries. Many of them are synonyms and often refer to differences among commercial
+types rather than to taxonomic distinctiveness. Almost as large is the list at the web
+site of Melbourne University (2003) - M. H. Porcher mantainer – where 29 entries of
+species and synonyms are given together with a large, although not always accurate,
+picture of the cultivated types. More restricted, although still large, is the list given
+by GRIN (Germplasm Resources Information Network - USDA) where cultivar groups
+do not appear, but synonym subspecies and botanical varieties are nevertheless taken
+into consideration.
+Altogether, at least six cultivar groups, mainly differentiated on the basis of their
+use, are recognizable (Kiers et al., 1999, 2000; Kiers, 2000; Van Stallen et al., 2001).
+Aiming to schematise in a readable manner the whole of these information, a
+synopsis is proposed in table 1 where a correspondence between taxonomy, cultivar
+group and most frequent and known utilization has been attempted.
+3 Biological Features
+Although they strongly resemble each other on the basis of morphological characters,
+C. intybus and C. endivia have always been considered as two different species. For
+an accurate morphological description see Kiers et al. (1999). Here a very synthetic
+picture is proposed where attention is mainly brought on the life cycle and the
+breeding system, i.e. on characters and features particularly concerned with breeding
+and, as such, proper of the cultivated types rather than of wild or naturalized species.
+From this point of view it has to be stressed that a description of the behaviour of the
+two species is strictly dependent on the environmental and cultural conditions and, in
+particular, on the latitude which one refers to. Since both species are grown under
+very different situations, it is worth to underline that we will consider what occurs
+with direct sowing or transplanting in open field at a latitude of about 45° N, as this
+is the average latitude of North Eastern Italy where both species are usually grown
+using different cultural techniques: in greenhouse, under temporary covers, or in the
+open field. 
+
+Both species have a tap root which in C. endivia is subdivided in parallel
+branches and may deepen in the soil down to over 1 m (Tesi, 1965), while in C.
+intybus is larger and unique. Particularly large is in the industrial types, whose
+commercial product is the root, or in the horticultural types whose commercial
+product is the bunch of leaves obtained through “forcing”, as it happens with the
+“Witloof chicory” or with the late type of “Radicchio di Treviso”.
+C. endivia has to be considered an annual, in as much as, independently of the
+moment of sowing or transplanting, between May and August, if temperature is
+sufficiently high, the plant forms an enlarged rosette of leaves which are
+characterized by a wide midrib and an extended flat (var. latifolium) or crisp (var
+crispum) lamina and, immediately thereafter, develops a flowering stalk.
+C. intybus is a biennial or, in the wild, a perennial species. An early sowing or
+transplanting in spring, under long days, although with differences according to the
+cultivar group, brings about an almost generalized flowering. If sowing or 
+
+transplanting are delayed to the month of July, the plant forms a rather loosen
+rosette, or a fairly compact “head”, which remains in the field until the following
+spring when, between May and June, the central bud develops in a stem bearing, as
+in C. endivia, blue “flowers” (rarely white or mauve).
+On the flowering stalk many clusters of 4-6 sessile “flowers” (2-4, rarely 8, in C.
+intybus) are inserted in axillary position, or single “flowers” are brought at the end of
+peduncles 10-20 cm long (4-7, rarely up to 13, in C. intybus). The “flower” is
+actually an inflorescence (capitulum) which is typical of the whole family and is a
+cluster of 15-25 single hermaphrodite flowers, borne on a receptacle and protected
+by an involucre. Each single flower has a gamopetalous and ligulate corolla, and
+bears five filamentous stamens fused by their anthers to form a column surrounding a
+pistil with a bifid stigma.
+At flowering, the style elongates, the stigma is pushed up through the small
+channel made by the anthers, the two halves of the stigma separate and assume a
+rather pronounced spiral form that may bring the inner receptive surface, completely
+free from pollen, to touch the outer surface of the pistil which, extruding from the
+staminal column, has remained densely covered with pollen grains. Thus, in both
+species, independently of the intervention of external agents, self-pollination is
+possible. This does not mean that both species are self-fertile. As we will see later,
+while C. endivia is self-fertile, C. intybus is characterized by a strong sporophytic
+incompatibility system which inhibits self-fertilization.
+4 Cultivar Groups
+In table 1 nine cultivar groups are listed, mainly according to the product they give
+and its use. Two of these refer to root crops for industrial utilization, coffee
+substitute or inulin extraction, and thus they are outside the strict horticultural field.
+All the others, although after different culinary transformations, are directly used, as
+leaves or roots, as fresh or cooked foods.
+Although, as it has been said, chicory and endive are cultivated all over Europe
+and tend to expand towards always new horticultural areas, most of these groups are
+well known and extensively adopted, as horticultural crops, at a local scale only and,
+as such, their description in the scientific and technical literature is often incomplete
+or inaccurate. This is particularly true when the crop is largely differentiated and has
+generated subgroups among which it may be really difficult to find differences and
+affinities. We are aware that, particularly for this kind of horticultural crops,
+diversity is often the most efficient tool for commercial success, both for the seedman and the farmer; 
+thus, it may be unwise, in a continuously moving breeding
+world, to establish a rigid frame within which everything has to find its place.
+Nevertheless, it seems advisable to have an account, as complete as possible, of the
+material we are talking about. This is the reason why, giving attention to the most
+distinctive traits and with the help of some pictures, we feel stimulated to attempt a
+short description of the most frequently cultivated plant material. Doing this, we do
+not intend, in any way, to cover the whole landscape of the chicory and endive types,
+cultivars, local populations, and farmer’s selections grown in Europe and outside: we 
+
+only want to propose a tool, although far from being exhaustive and of general
+satisfaction, usable for classifying at least the major part of the cultivated material
+according to objective criteria rather than to commercial perceptions.
+C. endivia subsp. endivia var. latifolium (2n = 18) (Fig 1A)
+ English: Escarole, Batavian endive, Broad leaved endive;
+French: Scarole, Chicorée blanche;
+Italian: Scarola;
+ German: Endivie-Eskariol;
+ Spanish: Escarola.
+ C. endivia subsp. endivia var. crispum (2n = 18) (Fig.1B)
+ English: Curled endive;
+ French: Chicorée frisée;
+Italian: Indivia riccia;
+ German: Krause endivie;
+ Spanish : Escarola crespa.
+The name “endive” correctly pertains to the cultivated material belonging to the
+two botanical varieties mentioned above. Their main use, alone or in mixtures, is in
+fresh salads for which their yellowish or pale green leaves are particularly
+appreciated. Cultivation techniques are much the same for the two types: they are
+typical spring-summer crops and are scarcely tolerant to low temperatures. Any out
+of season cultivation, both delayed or anticipated, although possible, needs artificial
+protection. The commercial value of the final product mainly depends on the ratio
+between the bunch of etiolated leaves which form the “heart” and the whole of the
+plant. In ancient times this ratio was traditionally increased by closing the rosette
+with a rubber band during the last period of permanence in the field. Recently bred
+cultivars, tendentiously self blanching, form a more or less closed rosette of leaves,
+so that the etiolated “heart” is naturally obtained directly in the field.
+C. intybus subsp. intybus (2n = 18)
+Two main groups can be recognized within this subspecies to which all the
+cultivated types of chicory belong: the first, which refers to the var. foliosum,
+traditionally includes all the cultivar groups whose commercial products are the
+leaves, while the second regards the var. sativum and comprises all the types whose
+commercial product, either destined to industrial transformation or direct human
+consumption, is the root.
+It might be argued that if it is true, as commonly accepted, that Witloof chicory
+has been firstly obtained from roots of Magdeburg, then, strictly speaking, it should
+be grouped under the var. sativum, together with all the other root chicories.
+Nevertheless, the most recent scientific literature refers to Witloof chicory as a type
+belonging to the var. foliosum (Koch et al., 1997; Van Stallen et al., 2001; Van
+Stallen et al., 2003; Van Stallen, 2003; de Proft et al., 2003; Van Stallen et al., 2005) 
+
+and as such it is considered here together with the cultivar groups Pain de sucre,
+Radicchio, and Chicory of Catalogne.
+ Witloof chicory (Fig. 1C)
+English: Witloof;
+ French: Chicorée de Bruxelles, Chicorée witloof;
+ Italian: Cicoria witloof, Cicoria di Bruxelles, Cicoria belga;
+ German: Zichorienzalat;
+ Spanish: Endibia, Achicoria de Bruselas.
+The productive cycle of Witloof chicory may be divided in two distinct phases.
+The first is aimed to obtain well developed and uniform roots which, in the second
+one, were traditionally forced under a soil coverage, ending up with the production
+of the well known firm etiolated heads (chicons) formed by leaves tightly grown. At
+present, due to the adoption of hydroponic culture techniques, a year round
+production is possible. In this evolution a role has been played by the development of
+specific hybrids which, thanks to both their targeted selection and uniformity,
+gradually replaced the original populations and the old farmer’s selections, further
+reducing the narrow genetic basis of the crop (de Proft, l.c.). In spite of this,
+genetically differentiated populations might still be sporadically traceable and used.
+Besides to physiological or parasitic disturbances which may alter the overall
+productivity and the product’s marketability, breeders pay attention to quality traits
+which may increase its commercial attractiveness. Among these, the pale yellowish
+colour of the leaf blade and an absolutely colourless midrib are most important,
+although much attention is also paid to the head’s closeness and firmness. Intrinsic
+quality has been considered as well and the almost complete disappearance of the
+bitter taste from the commercial product has to be retained as one of the reasons for
+its generalized acceptance outside the area of origin.
+More recently, attempts of innovation in the appearance of the commercial
+product have been made and, taking advantage from the within species variability
+and the interfertility among all the cultivar groups, new looking red or reddish leafed
+cultivars have been put on the market.
+ Pain de sucre (Fig. 1D)
+English: Sugarloaf chicory, Tall heading chicory;
+French: Chicorée pain de sucre ;
+Italian: Pan di zucchero ;
+German: Zichorien;
+Spanish: Achicoria.
+ It is perhaps one of the most ancient results of selection from wild populations.
+The plant’s appearance at maturity is more like Romaine lettuce or Chinese cabbage
+as it has very large leaves enveloping one over the other to form a large, firm, tightly
+closed head, yellowish green in colour, weighing up to 1.5-2.0 Kg. Its cultivation is
+not very widespread but, as it happens with other types of chicory, it may give a
+connotation to the horticulture of some restricted areas like, for instance, Southern
+France, North Western Italy and Southern Switzerland. Despite the name, it has 
+
+maintained quite an accentuated bitter flavour which renders this vegetable perhaps
+more adapted to be cooked rather than to enter as a component in crude salads. Open
+pollinated populations as well as some hybrid varieties are available on the seed
+market. 
+
+Radicchio
+This Italian common name has been adopted by all the most internationally used
+languages and indicates a very differentiated group of chicories, with red or
+variegated leaves, traditionally cultivated in North Eastern Italy.
+There is no documented history about the origin of coloured chicory in Italy. All
+the red types of Radicchio now being cultivated seem to derive from red-leaved
+individuals firstly introduced in XV century. According to Bianchedi (1961) the
+cultivation of red chicory goes back to the first half of XVI century. For sure, the
+original type has to be identified with the “Rosso di Treviso” which has been for
+long the only cultivated radicchio in the Venetian territories. Later on, possibly from
+spontaneous or controlled crosses between red leaved individuals and plants of C.
+endivia, the types with red spotted or variegated leaves have been originated. After
+spreading out to the nearest territories, the original type underwent an accentuated
+selection according to very different criteria suggested by each farmer’s personal
+preference, but at least partially due, or depending on, the various environmental
+situations met by the crop. Thus, in the area of Verona, from the original “Rosso di
+Treviso” a small winter hardy type forming a rosette of deep-red coloured leaves has
+been initially selected; from this, the most recent populations of “Rosso di Verona”
+have been obtained around 1960. During the second half of the last century a further
+selection from the original Treviso type has been made, thus originating a long
+leaved and early maturing population with self closing plants. Differently, in the area
+of Chioggia, a traditional horticultural area established since ever on the sandy soils
+extending southward of this small sea sided town just south of Venice, a variegated
+type, able to form rather conic, firm, and tightly closed heads while in the field, had
+been originally selected around 1930. From this, a large leaved red type with an
+accentuated and white midrib and characteristic ball-shaped heads has been initially
+selected about twenty years later and an almost completely light-yellowish type of
+very limited cultivation has been obtained toward the end of the last century.
+As a result, at least five grown types, named according to their province or town
+of origin, may be distinguished, at present, within this cultivar group:
+ Rosso di Chioggia = Red of Chioggia (Fig. 1E)
+ Rosso di Treviso Precoce = Early Red of Treviso (Fig. 1F)
+ Rosso di Treviso Tardivo = Late Red of Treviso (Fig. 1G)
+ Rosso di Verona = Red of Verona (Fig. 1H)
+ Variegato di Castelfranco = Variegated of Castelfranco (Fig. 1I)
+Rosso di Chioggia (Fig. 1E). This is by far the most widely grown among the
+various types of Radicchio and the one which presents the highest within-type
+differentiation as far as the availability of cultivars able to guarantee an almost
+complete year round production. As a matter of fact, it has shown a great adaptability
+to very different environmental situations all around the world, becoming the most
+grown type of Radicchio outside Italy and, thanks to this fact, the most known at
+international level. Independently of the sowing time, it grows in the open field and
+only early cultivations, able to give a product in the months of May and June, need 
+
+protection during the first part of the cycle. Its massive production is concentrated
+between September and the end of February of the following year. Its main features
+are, first of all, the ball shaped and very firm heads which, at harvest, may reach a
+weight of 500 g once the outside green leaves have been eliminated. Other
+distinctive traits are the deep red colour of the leaf lamina and the extension of the
+midrib which must be associated with its absolute whiteness. Although the seed
+industry has since long become interested to this crop and named commercial
+varieties have been adopted, the great majority of the farmers in the typical area of
+production still use seed of their own populations which they maintain through a
+yearly conservative selection and an on-farm seed production. Quite often this seed
+is sold and bought through private transactions, outside the official seed market, both
+inside and outside the typical area, while commercial seed is mainly used outside
+Italy. The majority of the commercial varieties are open pollinated populations
+derived through selection from the original genetic pool. In recent years so called
+hybrid varieties have been put on the market and are favourably adopted mainly for
+out of season productions.
+Rosso di Treviso Precoce (Fig. 1F). It is characterized by having upright long
+leaves with a large and thick midrib sustaining a rather expanded deep-red coloured
+lamina. During the vegetative period, as the plant grows, the newly developed leaves
+do not expand in an open rosette, but tighten more and more to form closed and firm
+heads. It is sown or transplanted in the field from July to mid August and harvested
+in September through December. At harvest, the outer green leaves and the major
+part of the tap root are taken away in order to leave the inside red heart ready for the
+market. Although it is one of the most recent selections, it is becoming more and
+more known outside its initially limited area of production and, thanks to a
+cultivation technique very similar to the one of “Rosso di Chioggia”, it is on the way
+to follow the same trend of expansion. As a consequence, the seed industry has been
+looking with increasing attention to this type of radicchio and, at present, besides
+some open pollinated commercial populations, one hybrid variety has been put on
+the market. Since an out of season cultivation has started to be adopted, an increasing
+need of genetically improved material is foreseeable. Anyway, at present, most
+farmers are using their own populations derived from the original genetic pool and
+maintained through yearly mass selection.
+Rosso di Treviso Tardivo (Fig. 1G). It is the most ancient type of Radicchio
+grown in Italy and can be considered the legitimate ancestor of all the others. It is a
+typical winter crop in as much as it is sown or transplanted in the field from July to
+mid August and may be harvested in October through February. The plant grows
+with long, deep-green, basically upright leaves which form a loose rosette and whose
+both midrib and lamina assume an always more accentuated reddish colour as
+temperature lowers. At harvesting, the entire plants are dig out, stocked with all their
+leaves and roots, and maintained at low temperature (around 0°C) as long as
+possible. According to the market’s request, plants are forced placing them under a
+black cover, with their roots in running water at 10-12°C. 
+
+After 10-18 days, according to the air temperature, the forcing period is
+concluded: plants are cleaned off, the outer leaves and a great portion of the tap root
+are eliminated leaving a bunch of bright-red coloured leaves with a white large
+midrib and a rather reduced lamina. As it seems clear enough, this crop has at least
+some features in common with Witloof chicory with which it shares the shape of the
+leaves, the growth habit, the large tap root, and the forcing process in order to obtain
+the commercial product. It is grown in a very restricted area and, together with the
+“Variegato di Castelfranco” and the “Rosso di Treviso Precoce” is one of the three
+radicchios recognized since the late ‘90s with the PGI (Protected Geographical
+Indication) mark. Its peculiar aspect and really superior culinary quality make this
+Italian Radicchio the most appreciated one. Its market price, particularly at
+Christmas, may reach as much as twice or three times the price of any other
+Radicchio. In spite of this, no named commercial variety is on the seed market
+except for selected open pollinated populations. As a matter of fact, its cultivation is
+very limited and the whole productive procedure is rather complicated and much less
+standardized than the one adopted for Witloof chicory. So, unless it reaches a
+comparable degree of popularity, it seems difficult that the seed industry would
+invest on this very peculiar crop. Almost the total present production relies on
+farmers’ populations whose history may go back for generations and which are
+maintained through yearly mass selection.
+Rosso di Verona (Fig. 1H). The first populations of this type of Radicchio, as we
+know it now, were obtained about fifty years ago. With respect to previous
+populations, the present ones have plants with much larger heads which may
+resemble those of “Rosso di Chioggia”. In comparison to these, besides being
+smaller on the average, they are more egg-shaped and formed by less expanded
+leaves with a brighter red lamina and a large and thick midrib from which less
+evident and intersecting veins depart. Its cultivation is much like that of “Rosso di
+Chioggia” and “Rosso di Treviso Precoce”. Sowing dates are from July to mid
+August, while harvesting starts at mid October and goes on until the end of February.
+During the vegetative period the plant develops a rosette of pale-green leaves which
+gradually close and tighten up to form a very firm head. It is a typical winter crop
+whose popularity and area of cultivation is increasing both in Italy, where it is
+expanding to more southern regions, and outside the country. The reason of this is
+much the same as for the early Rosso di Treviso: its cultivation can be standardized
+quite easily, there is no need for forcing, thanks to its attractiveness the product is
+well accepted by the market, and the consumer recognizes to it a better culinary
+quality in comparison to other Radicchio types. In spite of this increasing popularity,
+the seed market is rather poor and the available commercial varieties are selected
+open pollinated populations. The development of the first hybrid variety seems not
+too far anyway. The most frequently used seed is thus from the farmer’s populations
+selected during the last decades and maintained through mass selection. It seems
+worth noting that in developing these populations, a procedure implying crosses of
+the initial small leaved “Rosso di Verona” with the larger headed type “Rosso di
+Chioggia” may have been adopted. 
+
+Variegato di Castelfranco (Fig. 1I). Together with the “Rosso di Treviso
+Tardivo”, is the second most traditional type of Radicchio grown in North Eastern
+Italy. Its morphological traits make it easily distinguishable from any other type.
+Directly sown or transplanted between July and mid August, plants form a large
+rosette of more or less indented brilliant green leaves with a very extended red
+spotted or variegated lamina sustained by a not too evident white midrib. When
+developing, the inside leaves wrap up and tighten to form a closed but not too firm
+cone-shaped self blanching head. At harvest, the external green leaves are removed
+and the internal ones are open to form a bunch of pale yellowish red spotted leaves
+which looks very much like a flower. As a matter of fact, this Radicchio is also
+known as the “Rose of Castelfranco” and is one of the most appreciated components
+of fresh salads during the cold season The selected populations grown at present are
+all self blanching thus making the cultivation of the “Variegato di Castelfranco”
+comparable to the one described for the other types of Radicchio with the exception
+of the “Rosso di Treviso Tardivo” with which has for long been sharing the final
+forcing process. As far as the availability of commercial seed, the situation is much
+the same as for the majority of the other radicchios. Selected populations are
+available on the market, but the great part of the crop is planted with seed of farmers
+populations selected and maintained through mass selection by each farmer.
+ Catalogna (Fig. 1L)
+English: Asparagus chicory; Large leafed chicory;
+French: Chicorée asperge d’Italie;
+Italian : Cicoria Catalogna;
+German: Katalanische endivie.
+Has a recognised Italian origin but, other than in Italy, it is grown in Southern
+France, Spain, and, generally speaking, in all the Mediterranean countries, as well as
+outside Europe where the environmental conditions are sufficiently mild and
+favourable. The plant has tall deep green coloured upright leaves, with indented or
+continuous lamina and a marked midrib, growing in a tuft without forming a head.
+Its rather bitter taste is particularly appreciated. It is usually cooked, but young
+sprouts which origin from inside the plant may be used as fresh salad (puntarelle).
+Many cultivars are known whose names often refer to the place they come from or to
+the culinary utilization, thus generating synonyms used at commercial level to
+indicate the same product. It is rather frequent to find these names included in lists or
+catalogues, as if they were belonging to different cultivar groups, together with other
+types of different chicories, thus generating a little bit of confusion.
+ Root chicory (Fig. 1M). This cultivar group has to be referred to C. intybus
+subsp. intybus var sativum and includes both horticultural crops, grown for direct
+consumption as cooked food, and industrial crops whose destination is the
+preparation of a coffee substitute or inulin extraction. As far as the first utilization is
+concerned, the crop has no great diffusion and may have significance at local level
+only. All the grown types, differing in name according to the place of origin, have
+been derived from the ancient Magdeburg chicory. In selected varieties, roots tend to 
+
+be cylindrical, with smooth surface, few hairy roots, and the central part reduced at a
+minimum. Their bitter taste, which renders them particularly appreciated by the
+connoisseurs, has been strongly reduced in comparison to that of the original types.
+Selected open pollinated varieties are available on the seed market, but local
+populations maintained by farmers through mass selection are adopted in most cases.
+5 Genetics and Breeding
+5.1 Reproductive Systems and Population Genetics
+In any breeding program, the breeding schemes that can be adopted as well as the
+variety types that can be constituted depend on the reproductive barriers and mating
+systems of plants, and hence on the genetic structure of populations.
+The genetic structure of natural populations of cultivated Cichorium species
+cannot be referred to a unique model as there are basic differences between C.
+endivia and C. intybus in their reproductive system.
+C. endivia (2n = 18) is a self-pollinated species with less than 1% of spontaneous
+crosses (Rick, 1953), whose populations are composed of a mixture of pure lines,
+genetically related but reproductively independent from each other. Thus, genetic as
+well as phenotypic variation are principally detectable among lines, due to the
+presence, within natural populations, of fixed genotypes, mainly homozygous for
+different alleles. Spontaneous hybridization is however possible to some extent,
+depending on environmental factors and germplasm sources. Commercial endive
+varieties are usually represented by pure lines obtained through repeated selfing of a
+number of plants selected from original genetically variable populations or of hybrid
+individuals stemmed from crosses between superior parental lines chosen for
+complementary morphological and commercial traits. The close autogamy of endive
+limits the choice among breeding strategies to mass selection, individual selection,
+pedigree breeding and back-crossing (Ryder, 1998). The first strategy enables to
+constitute multiple line varieties, whereas the other ones lead to single pure lines:
+from here comes the uniformity of the commercial product. Production of F1 hybrids,
+which is usually more appropriate for cross-pollinated species, has been developed in
+other related self-pollinated leafy vegetables, such as lettuce, but it has yet to be
+exploited in endive. Although many commercial cultivars are on the seed market and
+represent the great majority of the cultivated material, local populations are still
+grown and, according to the area of cultivation, may give rise to different and very
+specific local productions.
+C. intybus (2n = 18) is a strictly allogamous species for which selfing is strongly
+hampered by an efficient incompatibility system that prevents inbreeding and
+promots out-breeding.
+The original populations of C. intybus, as far as their genetic structure is
+concerned, could be considered as natural since, independently of their historic
+background, the production of both Witloof and Radicchio has for long relied on 
+
+populations, maintained by farmers for their own use, on which very little selection,
+if any, might have been applied according to personal criteria. All these populations,
+obtained by mass selection and maintained through the intercrossing of selected
+parents, have to be considered highly heterozygous and genetically heterogeneous
+whose behaviour and level of adaptation to different environments and/or cultural
+conditions depend on the frequency of favourable genes or gene combinations. As
+the interest for the edible product grew, farmers’ selection criteria became more and
+more attentive to the consumer’s request and most of them elaborated their own
+ideotype. This brought about a great deal of genetic and morphological differentiation which has been 
+entirely preserved until organized breeding programs have
+been established, firstly by public institution and, in more recent times, by private
+firms. As it happens for most cross breeding species, in C. intybus detectable heterosis
+effects are present and hybridisation between selected genotypes give uniform and
+heterotic progenies; the constitution of F1 hybrid varieties is thus feasible. Nowadays
+the situation is quite different between Witloof and Radicchio. Since some years, F1
+Witloof hybrids, released by private seed companies, are on the seed market and the
+crop is at present mainly based on them, thus determining the complete disappearance
+of most farmer’s populations. In Radicchio, although with some differences among
+the various types, the major part of the crop is still based on farmer’s populations
+which are yearly selected and maintained and whose seed is usually reutilized on
+farm but may also be sold through private and not officially registered transactions.
+These populations are very well distinguishable among types, but they are often
+recognizable within type as well, on the basis of morphological and physiological
+characters and agronomic performances, although, at the same time, they present an
+acceptable phenotypic uniformity among individuals. Regarding their genetic variation,
+as estimated by genetic analysis performed through the application of appropriately
+chosen molecular markers, it is a common observation, also applicable to Witloof
+chicory too (Kiers et al., 2000; Van Stallen et al., 2001), that the major part of the
+genetic variation takes place within populations, while a minor portion is attributable
+to among population differences (Barcaccia et al., 2003).
+Since this is the plant material which, in recent years, has been representing, and
+still represents, the starting point for the constitution of new commercial varieties, it
+seems reasonable to state that, if preserved from extinction, it is an invaluable source
+of genetic diversity on which chicory breeding may rely for long in the future. It is
+however expected that F1 hybrid varieties will be bred and adopted with increasing
+frequency for Radicchio too. This is particularly true for the types which take an
+advantage from the uniformity of the marketed product as this is often the key for the
+customers appreciation.
+5.2 Breeding Achievements, Methods and Goals
+Productive as well as qualitative traits are main objectives in chicory and endive
+breeding programs. General and common goals in breeding new varieties mainly
+concern i) single plant size, weight and yield; ii) resistance to biotic (fungal diseases
+and insects) and abiotic stresses; iii) adaptation to a specific climatic or agronomic 
+
+environment; iv) uniformity of crop maturity; v) good market acceptance regarding
+extrinsic (color, shape, uniformity) and intrinsic (taste and texture) traits.
+C. endivia is a minor crop compared to chicory. Most of the breeding work on
+this species has been done by private seed companies and, as a consequence, there is
+not much literature on it. The breeding approach adopted with endive is much the
+same as with any other autogamous species: selection of superior genotypes a) from
+genetically variable farmer’s populations according to a pure line selection scheme
+and/or b) from segregating populations derived from crosses between previously
+selected superior parents, following a pedigree procedure. The first approach resulted
+in a series of varieties on which the crop almost completely relied at least during the
+whole first half of the last century. These varieties were often heterogeneous at
+morphological level and had to be considered as mixtures of more or less homozygous
+genotypes. Thus, although far from being genetically homogeneous, these varieties
+could be well differentiated from each other for leaf and head size and shape (Tesi,
+1974) and for long represented the basis for the successive selection work which led
+to improved pure line varieties. Because of the almost complete disappearance of the
+original farmers’ populations and the presence of good commercial varieties, at
+present breeders largely prefer the second strategy, based on selection within
+segregating populations, with which a number of favorable traits already present in
+the parents can be combined in superior genotypes. When selection for the favorable
+parental traits is made after each selfing, four to six generations might be enough to
+have genotypes with a sufficient level of fixation to be transferred in field trials and
+tested in comparison to the existing commercial varieties. It seems obvious that the
+first generations might be grown in dense stands and are mainly aimed to test the
+segregating material for traits usually under simple genetic control, like the resistance ones, which 
+allow the elimination of large numbers of individuals. Selection
+for morphological traits, more strictly linked to productivity and marketable quality,
+should be made in later generations grown in the field. This last part of the work
+might cover a variable number of generations according to the urgency to release
+new varieties. When one or more pure lines are considered superior to the existing
+varieties, the field testing may be extended to different climatic and agronomic
+situations in order to define the limits or the general adaptability of the selected
+material. Thereafter, the initial quantities of commercial seed might be produced and,
+after inscription in the Register of Commercial Varieties, put on the seed market.
+Sometimes, although morphologically uniform, a new variety is released while still
+containing some genetic variation which might let further divergent selection, thus
+originating a number of rather similar sister varieties. Analogously, a variety might
+have had a long commercial life and thus, through mutation and repeated multiplication, might have been 
+accumulating genetic changes which, by mean of selection,
+may produce variants of the original variety. This is a practice much used by seed
+companies to develop new varieties from publicly developed landmark varieties.
+When a variety is outstanding in most respects but lacks a specific trait,
+particularly when this is under the control of one gene as often occurs with resistance
+traits, the backcrossing approach can be successfully used for transferring that gene
+from another variety, a landrace or a wild type, where it might be present, to the 
+
+otherwise superior line or variety. Once known as a “surgical” method of breeding in 
+as much as, if correctly applied, it preserves the genetic structure and the agronomic
+performance of the variety to be improved while introducing into it the desired trait,
+the backcross method has nowadays been efficiently integrated with more
+sophisticated procedures which make use of the molecular tools in Marker Assisted
+Selection (MAS) programs. Although very efficient and largely adopted in many
+important field crops, this approach needs however a molecular knowledge of the
+species which is not too difficult to reach but which is still lacking as far as C.
+endivia is concerned.
+C. intybus is by far more important than C. endivia and has a much more ancient
+breeding history which goes back to at least eighty years ago, when the first varieties
+have been bred and sold on the seed market.
+As far as Witloof is concerned, the main traits evaluated during selection
+programs are related to morpho-phenological, agronomic, and organoleptic characteristics. Important 
+features are the time of cultivation, class of earliness, thickness
+and length of the main root, leaf shape and color, adaptation to local environments,
+disease resistances, taste and bitterness of edible parts.
+As already stated, roots are harvested at the end of the growing season and
+stored under low temperature until they are forced to produce the leafy vegetable.
+The production and quality of heads in Witloof chicory changes during the same
+season, and between production seasons, depending upon climatic factors, cultural
+practices, time of harvest, storage and forcing conditions, all of which influence the
+final yield and quality. However, there is no need to underline that the performance
+of a cultivar is strictly dependent upon its genetic value which, in turn, may be
+tightly linked to its genetic structure and thus to the strategy adopted for its
+constitution.
+Traditionally, varieties of chicory were developed by mass selection in order to
+obtain uniform populations characterized by valuable production and acceptable
+commercial head size and shape. Newly released varieties are mainly synthetics
+produced by intercrossing a number of phenotypically superior plants, selected on
+the basis of morpho-phenological and commercial traits. More rarely, plants are also
+evaluated genotypically by means of progeny tests. Synthetics have a rather large
+genetic base and are represented by a heterogeneous mixture of highly heterozygous
+genotypes sharing a common gene pool.
+In recent years, methods for the constitution of F1 hybrids have been developed
+by private breeders and seed companies. Details on the procedure for the constitution
+of such hybrids are not available in the current literature and it may be presumed that
+each company has developed its own protocol, mainly in accordance to the genetic
+material it has at disposal and to the possibility of applying a more or less efficient
+control on the F1 hybrid seed production phase. As a matter of fact, the strong selfincompatibility 
+system, which hinders obtaining highly homozygous parents, and the
+absence of a male sterility factor within the species or in sexually compatible
+species, make it difficult to propose a F1 seed production scheme and, most of all, to
+consider these newly commercial varieties as true F1 hybrids.
+Many so called Witloof hybrids are now in production and are highly appreciated by growers for their 
+performances and especially for their uniformity. Some 
+
+types are bred exclusively for tray production and others for either tray or soil-planted 
+production. Cultivars are tailored for a specific season of production. Early varieties
+have longer core lengths than late ones and this is used as a criterion of selection for
+early-, mid- and late-season varieties (Huyskes, 1963). Varieties designed for earlyseason forcing require 
+a shorter period of vernalization, store less well, and grow
+rapidly during forcing. Varieties designed for late-season forcing are harvested later,
+store better, require more chilling, grow relatively slowly during forcing, and
+produce more compact heads (Ryder, 1998). Other breeding objectives include tight
+closure of the tops of chicons, tolerance to internal browning, resistance to premature
+flowering, reduced bitterness and good presentation quality with regard to head
+color, shape and size.
+Chicory breeding materials of the radicchio group are usually represented by
+local populations known to possess a high variation and adaptation to the natural and
+anthropological environment where they have originated and are still cultivated
+(Barcaccia et al., 2003). As said, these populations are maintained by farmers
+through phenotypic selection according to their own criteria; sometimes, controlled
+hybridizations among different types is exploited in order to obtain recombinant
+genotypes showing superior agronomic and commercial traits. The breeding
+programs under way at present by local breeders and regional institutions aim: i) to
+isolate, within the best local selections, individuals amenable to be used as parents
+for the constitution of synthetic varieties and, although not easily feasible, ii) to
+select inbred lines suitable for the production of commercial F1 hybrids. These
+breeding procedures could be greatly assisted by the use of molecular markers that
+allow discarding of molecular off-types, to better exploit parental genetic
+polymorphisms for synthetics and to identify the most genetically distant inbreds as
+parental lines for hybrids.
+For the constitution of synthetics in all radicchio types, a widely used scheme
+includes the selection in the field of about 100 mother plants responding to a
+prefixed breeder’s ideotype. These plants should share similar morpho-phenological
+traits, and productive and qualitative properties. Local varieties, ecotypes and
+especially populations from mass selection represent an excellent breeding material
+to start with the selection of mother plants. In addition to the morpho-phenological,
+agronomic and commercial evaluation, a characterization based on molecular
+markers could be undertaken in order to choose and retain plants of the original
+population that associate a good genetic uniformity to a superior phenotypic value.
+Roots of the selected mother plants should be preserved during the winter until the
+next spring, when they will be transplanted in the field under an isolation cage. The
+seed from plant intercrossing is the basic stock from which commercial seed lots can
+be obtained and sold to farmers. It is generally accepted that seed multiplication
+should be performed in the radicchio cultivation areas.
+The constitution of experimental hybrids has been attempted also for radicchio
+types (Lucchin et al., 2007). Progenies of 28 cross combinations performed between
+partial inbred lines were recently evaluated for agronomic traits and production
+components. Most hybrid progenies proved to be morphologically uniform and
+showed heterotic vigour, although results varied according to the parental genotypes
+and the radicchio type. Heterosis in terms of plant vigour was particularly evident for 
+
+
